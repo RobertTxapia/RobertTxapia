@@ -28,7 +28,7 @@ _____________|','   ///_/-------------/   |
 
 - 🔭 I’m currently working on **Not working.**
 
-- 🌱 I’m currently learning **JavaScript, Git and Sass.**
+- 🌱 I’m currently learning **JavaScript, Sass and Git.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RobertTxapia](https://github.com/RobertTxapia)
 
