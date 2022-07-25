@@ -2,8 +2,6 @@
 <h1 align="center">Hi <img src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width="30px">, I'm Robert Tapia</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 - 🔭 I’m currently working on **Not working.**
 
 - 🌱 I’m currently learning **JavaScript, Git and Sass.**
