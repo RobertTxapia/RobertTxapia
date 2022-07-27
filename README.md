@@ -34,7 +34,7 @@ _____________|','   ///_/-------------/   |  17 year old
 
 - 📫 How to reach me **roberttapia231@gmail.com**
 
-- ⚡ Fun fact **I like bodybuilding and I know a lot about hardware.**
+- ⚡ Fun fact **I like bodybuilding and I know hardware**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
