@@ -28,7 +28,7 @@ _____________|','   ///_/-------------/   |  17 year old
 
 - 🔭 I’m currently working on **Not working.**
 
-- 🌱 I’m currently learning **JavaScript, Sass and Git.**
+- 🌱 I’m currently learning **JavaScript and Sass.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RobertTxapia](https://github.com/RobertTxapia)
 
