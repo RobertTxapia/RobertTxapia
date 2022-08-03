@@ -1,6 +1,31 @@
 
-<h1 align="center">Hi 😎, I'm Robert Tapia</h1>
+
+<h1 align="center">Hi <img src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width="30px">, I'm Robert Tapia</h1>
 <h3 align="center">A passionate frontend developer</h3>
+
+```
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |  17 year old
+              |===========,'
+```
+
+
 
 - 🔭 I’m currently working on **Not working.**
 
@@ -11,7 +36,6 @@
 - 📫 How to reach me **roberttapia231@gmail.com**
 
 - ⚡ Fun fact **I like bodybuilding and I know hardware.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/roberttxapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="roberttxapia" height="30" width="40" /></a>
