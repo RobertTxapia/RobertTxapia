@@ -50,7 +50,7 @@ _____________|','   ///_/-------------/   |  17 year old
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberttxapia&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="roberttxapia" /></p>
-<br>
+
 <p align="center">
   <br/>
    <br/>
