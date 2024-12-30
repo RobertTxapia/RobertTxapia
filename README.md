@@ -21,7 +21,7 @@ _____________,'      ,',_____|      |    | |
              |     ,','      |      |    | |
              |   ,','    ____|_____/    /  |
              | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |  18 year old
+_____________|','   ///_/-------------/   |  19 year old
               |===========,'
 ``` 
 <img src="https://camo.githubusercontent.com/e141ecb6fcba24af395f3e3bed0f38946da23242cf339134eeeb2fe530e60d77/68747470733a2f2f7777772e76696d2e6f72672f696d616765732f76696d5f6f6e5f666972652e676966" width="30px">
@@ -34,7 +34,7 @@ _____________|','   ///_/-------------/   |  18 year old
 
 - 👨‍💻 All of my projects are available at [https://github.com/RobertTxapia](https://github.com/RobertTxapia)
 
-- 📫 How to reach me **roberttapia231@gmail.com**
+- 📫 How to reach me **roberttapia613@gmail.com**
 
 - ⚡ Fun fact **I like bodybuilding and I know hardware.**
 <h3 align="left">Connect with me:</h3>
